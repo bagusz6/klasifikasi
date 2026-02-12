@@ -9,4 +9,4 @@ scikit-learn>=1.0.0
 plotly>=5.0.0
 opencv-python>=4.5.0
 
-streamlit run "d:/projek/klasifikasi sampah/app.py"
+
